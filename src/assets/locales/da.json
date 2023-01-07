@@ -52,7 +52,7 @@
     "reset-config-msg-l1": "Dette vil fjerne alle brugerindstillinger fra local storage, men vil ikke påvirke din 'conf.yml'-fil.",
     "reset-config-msg-l2": "Du bør først sikkerhedskopiere eventuelle ændringer, du har foretaget lokalt, hvis du vil bruge dem i fremtiden.",
     "reset-config-msg-l3": "Er du sikker på at du vil fortsætte?",
-    "data-cleared-msg": "Data blev succesfuldt ryddet",
+    "data-cleared-msg": "Data blev successfuldt ryddet",
     "actions-label": "Handlinger",
     "copy-config-label": "Kopiera Config",
     "data-copied-msg": "Konfigurationen er blevet kopieret til clipboard",
