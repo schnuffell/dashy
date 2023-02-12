@@ -140,6 +140,13 @@
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/Tuzi555">
+            <img src="https://avatars.githubusercontent.com/u/62188066?v=4" width="80;" alt="Tuzi555"/>
+            <br />
+            <sub><b>Jakub Tuzar</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Bogyie">
             <img src="https://avatars.githubusercontent.com/u/82003678?v=4" width="80;" alt="Bogyie"/>
             <br />
@@ -173,15 +180,15 @@
             <br />
             <sub><b>Alessandro Del Prete</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BOZG">
             <img src="https://avatars.githubusercontent.com/u/6022344?v=4" width="80;" alt="BOZG"/>
             <br />
             <sub><b>Stephen Rigney</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/moemoeq">
             <img src="https://avatars.githubusercontent.com/u/1808434?v=4" width="80;" alt="moemoeq"/>
@@ -208,13 +215,6 @@
             <img src="https://avatars.githubusercontent.com/u/21180271?v=4" width="80;" alt="k073l"/>
             <br />
             <sub><b>K073l</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/patrickheeney">
-            <img src="https://avatars.githubusercontent.com/u/1407228?v=4" width="80;" alt="patrickheeney"/>
-            <br />
-            <sub><b>Patrick Heeney</b></sub>
         </a>
     </td></tr>
 </table>
